@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sauloalvess
-- 👀 I’m interested in technology, traveling, music :)
+- 👀 I’m interested in technology, traveling, music, games :)
 - 🌱 I’m currently learning Data Engineering, Machine Learning
 - 💞️ I’m looking to collaborate on Data Engineering and Machine Learning Projects
 - 📫 How to reach me: sauloalves@live.com / @saulinhonz
